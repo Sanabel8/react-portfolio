@@ -1,3 +1,66 @@
+https://sanabeljamal8.netlify.app/
+
+
+Number and name of feature: ___1.Deploy__
+Estimate of time needed to complete: __30min___
+
+Start time: __1:00___
+
+Finish time: _1:20____
+
+Actual time needed to complete: _20min____
+
+
+Number and name of feature: ___2.Profile page_
+
+Estimate of time needed to complete: __20min___
+
+Start time: __1:30___
+
+Finish time: __1:40___
+
+Actual time needed to complete: ___10min__
+
+
+
+
+Number and name of feature: ____3.Nav ,Header and footer
+
+Estimate of time needed to complete: _20min____
+
+Start time: 3:10_____
+
+Finish time: _3:35____
+
+Actual time needed to complete: _25min____
+
+
+
+Number and name of feature: ___4.portfolio page
+
+Estimate of time needed to complete: __10min___
+
+Start time: __3:40___
+
+Finish time: _3:55____
+
+Actual time needed to complete: __15min___
+
+
+
+Number and name of feature: __5. Personalize 
+
+Estimate of time needed to complete: _10min____
+
+Start time: _4:00____
+
+Finish time: _4:10____
+
+Actual time needed to complete: __10min___
+
+
+
+
 # [Argon Design System React](https://demos.creative-tim.com/argon-design-system-react?ref=adsr-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Argon%20Design%20System%20is%20a%20Free%20Bootstrap%204,%20React%20and%20Reactstrap%20Dashboard%20made%20using%20create-react-app%20%E2%9D%A4%EF%B8%8F%0Ahttps%3A//demos.creative-tim.com/argon-design-system-react%20%23react%20%23reactstrap%20%23createreactapp%20%23argon%20%23argondesign%20%23reactkit%20%23argonreact%20%23reactdesign%20%23bootstrap%20%23design%20%23uikit%20%23freebie%20%20via%20%40CreativeTim)
 
 
