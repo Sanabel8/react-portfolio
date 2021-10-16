@@ -6953,11 +6953,11 @@ button.bg-darker:focus {
 }
 
 .rounded-circle {
-  border-radius: 550%;
+  border-radius: 50%;
   /* height: 230px;
-  width: max-content; */
+  width: max-content; 
   height: 200px;
-  width: 500px;
+  width: 500px; */
 }
 
 .rounded-pill {
@@ -16266,7 +16266,7 @@ a.btn-icon-only {
   position: relative;
 }
 .profile-page .card-profile .card-profile-image img {
-  max-width: 180%;
+  max-width: 100%;
   border-radius: 0.25rem;
   transform: translate(-50%, -30%);
   position: absolute;
