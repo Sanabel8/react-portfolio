@@ -109,6 +109,8 @@ class DemoNavbar extends React.Component {
                   </Row>
                 </div>
                 <Nav className="navbar-nav-hover align-items-lg-center" navbar>
+
+                  
                   {/* <UncontrolledDropdown nav>
                     <DropdownToggle nav>
                       <i className="ni ni-ui-04 d-lg-none mr-1" />
@@ -173,6 +175,7 @@ class DemoNavbar extends React.Component {
                       </div>
                     </DropdownMenu>
                   </UncontrolledDropdown> */}
+
                   <UncontrolledDropdown nav>
                     <DropdownToggle nav>
                       <i className="ni ni-collection d-lg-none mr-1" />
@@ -180,7 +183,7 @@ class DemoNavbar extends React.Component {
                     </DropdownToggle>
                     <DropdownMenu>
                       <DropdownItem to="/landing-page" tag={Link}>
-                        Landing
+                        landing
                       </DropdownItem>
                       <DropdownItem to="/profile-page" tag={Link}>
                         Profile
@@ -192,8 +195,11 @@ class DemoNavbar extends React.Component {
                         Register
                       </DropdownItem> */}
                     </DropdownMenu>
-                  </UncontrolledDropdown>
+                  </UncontrolledDropdown>                  
+
+
                 </Nav>
+                
                 <Nav className="align-items-lg-center ml-lg-auto" navbar>
                   <NavItem>
                     <NavLink
@@ -208,41 +214,51 @@ class DemoNavbar extends React.Component {
                       </span>
                     </NavLink>
                     <UncontrolledTooltip delay={0} target="tooltip333589074">
-                      Like us on Facebook
+                      Like me on Facebook
                     </UncontrolledTooltip>
                   </NavItem>
-                  {/* <NavItem>
+
+
+                  
+                  {/* {<NavItem>
                     <NavLink
                       className="nav-link-icon"
-                      href="https://www.instagram.com/creativetimofficial"
+                      href="https://www.linkedin.com/in/sanabel-abu-ezbead-41a23920a"
                       id="tooltip356693867"
                       target="_blank"
                     >
-                      <i className="fa fa-instagram" />
+                      <i className="fa fa-Instgram" />
                       <span className="nav-link-inner--text d-lg-none ml-2">
-                        Instagram
+                        Linkedln
                       </span>
                     </NavLink>
                     <UncontrolledTooltip delay={0} target="tooltip356693867">
-                      Follow us on Instagram
+                      Follow me on Linkedln
                     </UncontrolledTooltip>
-                  </NavItem> */}
-                  {/* <NavItem>
+                  </NavItem>} */}
+                  
+
+                  
+                  {<NavItem>
                     <NavLink
                       className="nav-link-icon"
-                      href="https://twitter.com/creativetim"
+                      href="https://twitter.com/SZbaid"
                       id="tooltip184698705"
                       target="_blank"
                     >
                       <i className="fa fa-twitter-square" />
                       <span className="nav-link-inner--text d-lg-none ml-2">
-                        Twitter
+                      twitter
                       </span>
                     </NavLink>
                     <UncontrolledTooltip delay={0} target="tooltip184698705">
-                      Follow us on Twitter
+                      Follow me on twitter
                     </UncontrolledTooltip>
-                  </NavItem> */}
+                  </NavItem>}
+                  
+
+
+
                   <NavItem>
                     <NavLink
                       className="nav-link-icon"

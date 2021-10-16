@@ -23,7 +23,7 @@ import { Button, Card, Container, Row, Col } from "reactstrap";
 // core components
 import DemoNavbar from "components/Navbars/DemoNavbar.js";
 import SimpleFooter from "components/Footers/SimpleFooter.js";
-import profile from "../../assets/img/theme/sososo.png";
+import profile from "../../assets/img/theme/WhatsApp Image 2021-10-16 at 1.58.56 PM.jpeg";
 
 class Profile extends React.Component {
   componentDidMount() {
@@ -88,31 +88,31 @@ class Profile extends React.Component {
                         <Button
                           className="mr-4"
                           color="info"
-                          href="#pablo"
+                          href="https://ltuc-asac.slack.com/team/U01R5ES2P6E"
                           onClick={e => e.preventDefault()}
                           size="sm"
                         >
-                          Connect
+                          Slack
                         </Button>
                         <Button
                           className="float-right"
                           color="default"
-                          href="#pablo"
+                          href="https://www.linkedin.com/in/sanabel-abu-ezbead-41a23920a/"
                           onClick={e => e.preventDefault()}
                           size="sm"
                         >
-                          Message
+                          Linkedln
                         </Button>
                       </div>
                     </Col>
                     <Col className="order-lg-1" lg="4">
                       <div className="card-profile-stats d-flex justify-content-center">
                         <div>
-                          <span className="heading">22</span>
+                          <span className="heading">39</span>
                           <span className="description">Repositories</span>
                         </div>
                         <div>
-                          <span className="heading">1</span>
+                          <span className="heading">4</span>
                           <span className="description">Project</span>
                         </div>
                         <div>
@@ -123,9 +123,9 @@ class Profile extends React.Component {
                     </Col>
                   </Row>
                   <div className="text-center mt-5">
-                    <h3>
+                    <h3 className="h33">
                       Sanabel Abu-Ezbead{" "}
-                      <span className="font-weight-light">, 23</span>
+                      <span className="font-weight-light">, 24</span>
                     </h3>
                     <div className="h6 font-weight-300">
                       <i className="ni location_pin mr-2" />
@@ -133,7 +133,7 @@ class Profile extends React.Component {
                     </div>
                     <div className="h6 mt-4">
                       <i className="ni business_briefcase-24 mr-2" />
-                      Software Developer -Civil Engineering
+                      Software Developer - Civil Engineering
                     </div>
                     <div>
                       <i className="ni education_hat mr-2" />
@@ -144,11 +144,13 @@ class Profile extends React.Component {
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          I am Sanabel Abu-Ezbead ,a civil Engineering I Join to this course to develop my skills in programming  to become software developer after the coarse inshalla .
-                          I learned so mush of things about the software development in the level 201
-                          and I am so excited now to learn more in level 301
+                         
+                          I am a Software Developer who transitioned from a Civil Engineering background.  I learned languLanguages: HTML , CSS , Javascript , Java(Spring).
+                          and I learned also about Frameworks: Spring, Node js,  ,React-bootstrap ,React js. finally I can practise alot of tools like: Github , Git , vs code , discord , visual studio , ubuntu , canvas , Inetllij ,  Zoom. 
+
+
                         </p>
-                        <a href="#pablo" onClick={e => e.preventDefault()}>
+                        <a href="https://docs.google.com/document/d/1vfnN67OCOkstx1azclLvXpYYDQCHMt7hr0aQ50jMsKU/edit#" onClick={e => e.preventDefault()}>
                           Show more
                         </a>
                       </Col>

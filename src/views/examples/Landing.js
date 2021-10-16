@@ -90,15 +90,16 @@ class Landing extends React.Component {
                         software upgrades for customers' existing programs and systems
                       </p>
                       <div className="btn-wrapper">
-                        <Button
+                        {/* <Button
                           className="btn-icon mb-3 mb-sm-0"
                           color="info"
                           href="https://demos.creative-tim.com/argon-design-system-react/#/documentation/alerts?ref=adsr-landing-page"
+                          
                         >
                           <span className="btn-inner--icon mr-1">
                             <i className="fa fa-code" />
                           </span>
-                          <span className="btn-inner--text">Components</span>
+                          <span className="btn-inner--text">Profile</span>
                         </Button>
                         <Button
                           className="btn-white btn-icon mb-3 mb-sm-0 ml-1"
@@ -111,7 +112,7 @@ class Landing extends React.Component {
                           <span className="btn-inner--text">
                             Download React
                           </span>
-                        </Button>
+                        </Button> */}
                       </div>
                     </Col>
                   </Row>
@@ -152,6 +153,7 @@ class Landing extends React.Component {
                           </h6>
                           <p className="description mt-3">
                             The eventoSyntax here to fully plan and organize events . as well as to save companys' time ,effort and cost for organization event.
+                            done using :html, css ,javascript
                           </p>
                           <div>
                             <Badge color="primary" pill className="mr-1">
@@ -182,10 +184,10 @@ class Landing extends React.Component {
                             <i className="ni ni-istanbul" />
                           </div>
                           <h6 className="text-success text-uppercase">
-                            301 Project
+                          Flouvers 101
                           </h6>
                           <p className="description mt-3">
-                            make Project using rect and node.js and design it by Bootstrap
+                            a website contains a variety categories of food recipes which provide you with a short description for each recipe, and you can interact with it, either favorites or share your feedback.
                           </p>
                           <div>
                             <Badge color="success" pill className="mr-1">
@@ -201,7 +203,7 @@ class Landing extends React.Component {
                           <Button
                             className="mt-4"
                             color="success"
-                            href="#pablo"
+                            href="https://coderz-titans.github.io/titans-frontend/"
                             onClick={e => e.preventDefault()}
                           >
                             Learn more
@@ -216,12 +218,10 @@ class Landing extends React.Component {
                             <i className="ni ni-planet" />
                           </div>
                           <h6 className="text-warning text-uppercase">
-                            Personal pitch
+                          Volunteer
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                          people have problem to contact with volunteers to help them so in our website we facilitated the people to reach what they need and contact them with volunteer
                           </p>
                           <div>
                             <Badge color="warning" pill className="mr-1">
@@ -237,7 +237,7 @@ class Landing extends React.Component {
                           <Button
                             className="mt-4"
                             color="warning"
-                            href="#pablo"
+                            href="https://github.com/batatafries/volunteer"
                             onClick={e => e.preventDefault()}
                           >
                             Learn more
